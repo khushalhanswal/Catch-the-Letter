@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1533653452 source:c:\users\khushal\desktop\programs\catchtheletter\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<dos.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+
